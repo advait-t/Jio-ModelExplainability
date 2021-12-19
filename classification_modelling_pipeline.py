@@ -1,5 +1,5 @@
 import sys
-from typing import final
+# from typing import final
 from pycaret.classification import compare_models, create_model, finalize_model, get_config, predict_model, save_config, save_model, setup, tune_model
 import all_function
 import pandas as pd
